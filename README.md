@@ -19,4 +19,4 @@ https://user-images.githubusercontent.com/7375014/187805836-014aeaeb-5296-4090-8
 
 # Todo
 - Dockerization
-
+- The dishes
