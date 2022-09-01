@@ -1,6 +1,9 @@
 # serpienski-rug
 Recursive golang implementation
 
+# What?
+This -> https://en.wikipedia.org/wiki/Sierpi%C5%84ski_carpet
+
 # Parameters
 | Name | Description |
 | --- | --- |
